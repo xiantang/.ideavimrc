@@ -1,6 +1,8 @@
 # .ideavimrc
 vimidea 插件的vimrc 配置文件
-
+vim 快捷键
+* end (小键盘) 到达代码段尾部
+* home (小键盘) 到达首部
 
 常用已修改快捷键 
 * let mapleader=";" 配置 leader
